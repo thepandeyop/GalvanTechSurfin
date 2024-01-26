@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GalvanoTechsurfin/static/css/main.0b9d9e93.css",
+    "main.js": "/GalvanoTechsurfin/static/js/main.1fbc33b2.js",
+    "static/media/fac3.jpg": "/GalvanoTechsurfin/static/media/fac3.a0195990709773cc5e23.jpg",
+    "static/media/fac1.jpg": "/GalvanoTechsurfin/static/media/fac1.b2c096070d7c1d347248.jpg",
+    "static/media/fac2.jpg": "/GalvanoTechsurfin/static/media/fac2.3036a2737b0ff11b426f.jpg",
+    "index.html": "/GalvanoTechsurfin/index.html",
+    "main.0b9d9e93.css.map": "/GalvanoTechsurfin/static/css/main.0b9d9e93.css.map",
+    "main.1fbc33b2.js.map": "/GalvanoTechsurfin/static/js/main.1fbc33b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b9d9e93.css",
+    "static/js/main.1fbc33b2.js"
+  ]
+}
